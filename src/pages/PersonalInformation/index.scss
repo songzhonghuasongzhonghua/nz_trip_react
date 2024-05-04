@@ -1,0 +1,15 @@
+.PersonalInformationPage {
+    position: relative;
+  }
+  
+  .ant-upload-list {
+    .ant-upload-list-picture-card-container,
+    .ant-upload-select {
+      width: 146px;
+      height: 146px;
+    }
+  }
+ .ant-card-body{
+    display: flex;
+    justify-content: space-between;
+ }
